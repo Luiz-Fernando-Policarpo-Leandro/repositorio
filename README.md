@@ -1,2 +1,2 @@
 # repositório!
- meu primeiro repositorio, feito para testar o software.
+ meu primeiro repositorio, feito para testar o software!
